@@ -1,9 +1,5 @@
 ### Hi there 👋
-
-<!--
-**matvrus/matvrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+freelance
 Front-End Developer
 Ruslan Lapiniak
 
